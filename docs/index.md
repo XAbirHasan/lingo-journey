@@ -26,4 +26,7 @@ features:
   - icon: 🎯
     title: IELTS Preparation
     details: Specialized vocabulary plan for IELTS exam success
+  - icon: 🚀
+    title: C1 & C2 Coming Soon
+    details: Advanced and mastery levels in development with 2000+ and 2500+ words
 ---
