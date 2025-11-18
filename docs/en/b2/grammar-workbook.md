@@ -1049,16 +1049,16 @@ Correct any errors:
 
 Congratulations on completing the **B2 Level Grammar Workbook**! You have now mastered:
 
-✅ Complex conditional structures and mixed conditionals
-✅ All perfect aspect combinations
-✅ Advanced passive voice constructions
-✅ Cleft sentences and inversion for emphasis
-✅ Sophisticated reported speech patterns
-✅ Nominalization and formal academic structures
-✅ Discourse markers for coherent writing
-✅ Advanced relative clauses and participle clauses
-✅ Hedging and qualifying language
-✅ Cohesive devices and reference systems
+- ✅ Complex conditional structures and mixed conditionals
+- ✅ All perfect aspect combinations
+- ✅ Advanced passive voice constructions
+- ✅ Cleft sentences and inversion for emphasis
+- ✅ Sophisticated reported speech patterns
+- ✅ Nominalization and formal academic structures
+- ✅ Discourse markers for coherent writing
+- ✅ Advanced relative clauses and participle clauses
+- ✅ Hedging and qualifying language
+- ✅ Cohesive devices and reference systems
 
 **Next Steps:**
 1. Complete the **B2 Speaking Practice** exercises

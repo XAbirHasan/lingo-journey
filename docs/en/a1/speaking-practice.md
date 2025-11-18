@@ -16,21 +16,6 @@
 
 ---
 
-## Table of Contents
-
-1. [Introducing Yourself](#scenario-1)
-2. [Meeting Someone New](#scenario-2)
-3. [At a Restaurant/Café](#scenario-3)
-4. [Shopping for Clothes](#scenario-4)
-5. [Asking for Directions](#scenario-5)
-6. [At the Doctor](#scenario-6)
-7. [Making Plans with Friends](#scenario-7)
-8. [Talking About Daily Routine](#scenario-8)
-9. [At the Supermarket](#scenario-9)
-10. [Talking About Family](#scenario-10)
-
----
-
 <a name="scenario-1"></a>
 ## Scenario 1: Introducing Yourself
 
@@ -887,12 +872,12 @@ In natural speech, we connect words:
 
 ## Common Mistakes to Avoid
 
-❌ I have 25 years → ✅ I am 25 years old
-❌ I am agree → ✅ I agree
-❌ I am boring → ✅ I am bored (or: The class is boring)
-❌ I have hunger → ✅ I am hungry
-❌ Where you are from? → ✅ Where are you from?
-❌ I live in London since 2020 → ✅ I have lived in London since 2020 (for A2+ level)
+- ❌ I have 25 years → ✅ I am 25 years old
+- ❌ I am agree → ✅ I agree
+- ❌ I am boring → ✅ I am bored (or: The class is boring)
+- ❌ I have hunger → ✅ I am hungry
+- ❌ Where you are from? → ✅ Where are you from?
+- ❌ I live in London since 2020 → ✅ I have lived in London since 2020 (for A2+ level)
 
 ---
 

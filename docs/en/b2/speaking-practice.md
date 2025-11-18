@@ -983,11 +983,11 @@ Organize a 3-person panel discussion on: "The future of work in an AI-driven eco
 
 Congratulations on completing the **B2 Level Speaking Practice** guide! You now have:
 
-✅ 15 comprehensive speaking scenarios covering academic, professional, and social contexts
-✅ Advanced communication strategies for fluency and effectiveness
-✅ Practice with presentations, debates, negotiations, and discussions
-✅ Pronunciation and intonation guidance for natural delivery
-✅ Self-assessment tools and progress tracking methods
+- ✅ 15 comprehensive speaking scenarios covering academic, professional, and social contexts
+- ✅ Advanced communication strategies for fluency and effectiveness
+- ✅ Practice with presentations, debates, negotiations, and discussions
+- ✅ Pronunciation and intonation guidance for natural delivery
+- ✅ Self-assessment tools and progress tracking methods
 
 **B2 Speaking Competency** enables you to:
 - Express yourself fluently and spontaneously

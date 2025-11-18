@@ -16,31 +16,6 @@
 
 ---
 
-## Table of Contents
-
-1. [The Verb "TO BE" (Present Simple)](#lesson-1)
-2. [Personal Pronouns & Possessive Adjectives](#lesson-2)
-3. [Articles: A, An, The](#lesson-3)
-4. [Plural Nouns](#lesson-4)
-5. [The Verb "TO HAVE" (Present Simple)](#lesson-5)
-6. [Present Simple - Positive](#lesson-6)
-7. [Present Simple - Negative](#lesson-7)
-8. [Present Simple - Questions](#lesson-8)
-9. [This, That, These, Those](#lesson-9)
-10. [There is / There are](#lesson-10)
-11. [Prepositions of Place](#lesson-11)
-12. [Prepositions of Time](#lesson-12)
-13. [Can / Can't (Ability)](#lesson-13)
-14. [Present Continuous](#lesson-14)
-15. [Adjectives](#lesson-15)
-16. [Adverbs of Frequency](#lesson-16)
-17. [Question Words](#lesson-17)
-18. [Imperative (Commands)](#lesson-18)
-19. [Past Simple - "To Be"](#lesson-19)
-20. [Review & Practice Test](#lesson-20)
-
----
-
 <a name="lesson-1"></a>
 ## Lesson 1: The Verb "TO BE" (Present Simple)
 
@@ -58,13 +33,13 @@ The verb "to be" changes form depending on the subject:
 
 ### Examples
 
-✅ I **am** a student. = I'm a student.
-✅ You **are** my friend. = You're my friend.
-✅ He **is** a doctor. = He's a doctor.
-✅ She **is** happy. = She's happy.
-✅ It **is** a cat. = It's a cat.
-✅ We **are** students. = We're students.
-✅ They **are** teachers. = They're teachers.
+- ✅ I **am** a student. = I'm a student.
+- ✅ You **are** my friend. = You're my friend.
+- ✅ He **is** a doctor. = He's a doctor.
+- ✅ She **is** happy. = She's happy.
+- ✅ It **is** a cat. = It's a cat.
+- ✅ We **are** students. = We're students.
+- ✅ They **are** teachers. = They're teachers.
 
 ### Exercise 1A: Fill in the Blanks
 
@@ -121,12 +96,12 @@ Rewrite using contractions:
 
 ### Examples
 
-✅ **I** have a car. It's **my** car.
-✅ **You** have a book. It's **your** book.
-✅ **He** has a dog. It's **his** dog.
-✅ **She** has a cat. It's **her** cat.
-✅ **We** have a house. It's **our** house.
-✅ **They** have a garden. It's **their** garden.
+- ✅ **I** have a car. It's **my** car.
+- ✅ **You** have a book. It's **your** book.
+- ✅ **He** has a dog. It's **his** dog.
+- ✅ **She** has a cat. It's **her** cat.
+- ✅ **We** have a house. It's **our** house.
+- ✅ **They** have a garden. It's **their** garden.
 
 ### Exercise 2A: Choose the Correct Word
 
@@ -162,13 +137,13 @@ Rewrite using contractions:
 
 ### Examples
 
-✅ **A** book (any book)
-✅ **An** apple (any apple)
-✅ **The** book on the table (specific book)
+- ✅ **A** book (any book)
+- ✅ **An** apple (any apple)
+- ✅ **The** book on the table (specific book)
 
-✅ I have **a** car.
-✅ She eats **an** orange.
-✅ **The** sun is bright.
+- ✅ I have **a** car.
+- ✅ She eats **an** orange.
+- ✅ **The** sun is bright.
 
 ### When to Use
 
@@ -228,10 +203,10 @@ Example:
 
 ### Examples
 
-✅ one cat → two **cats**
-✅ one box → three **boxes**
-✅ one baby → four **babies**
-✅ one man → five **men**
+- ✅ one cat → two **cats**
+- ✅ one box → three **boxes**
+- ✅ one baby → four **babies**
+- ✅ one man → five **men**
 
 ### Exercise 4A: Write the Plural
 
@@ -278,13 +253,13 @@ Choose the correct form:
 
 ### Examples
 
-✅ I **have** a car.
-✅ You **have** a dog.
-✅ He **has** a book.
-✅ She **has** long hair.
-✅ It **has** four legs.
-✅ We **have** a house.
-✅ They **have** two children.
+- ✅ I **have** a car.
+- ✅ You **have** a dog.
+- ✅ He **has** a book.
+- ✅ She **has** long hair.
+- ✅ It **has** four legs.
+- ✅ We **have** a house.
+- ✅ They **have** two children.
 
 ### Exercise 5A: Have or Has?
 
@@ -330,13 +305,13 @@ Choose the correct form:
 
 ### Examples
 
-✅ I **work** every day.
-✅ You **live** in London.
-✅ He **works** in a bank.
-✅ She **likes** coffee.
-✅ It **rains** a lot.
-✅ We **study** English.
-✅ They **play** football.
+- ✅ I **work** every day.
+- ✅ You **live** in London.
+- ✅ He **works** in a bank.
+- ✅ She **likes** coffee.
+- ✅ It **rains** a lot.
+- ✅ We **study** English.
+- ✅ They **play** football.
 
 ### Exercise 6A: Add -s/-es/-ies if Needed
 
@@ -373,13 +348,13 @@ Choose the correct form:
 
 ### Examples
 
-✅ I **do not like** = I **don't like** coffee.
-✅ You **do not work** = You **don't work** here.
-✅ He **does not speak** = He **doesn't speak** English.
-✅ She **does not have** = She **doesn't have** a car.
-✅ It **does not rain** = It **doesn't rain** much.
-✅ We **do not go** = We **don't go** there.
-✅ They **do not play** = They **don't play** football.
+- ✅ I **do not like** = I **don't like** coffee.
+- ✅ You **do not work** = You **don't work** here.
+- ✅ He **does not speak** = He **doesn't speak** English.
+- ✅ She **does not have** = She **doesn't have** a car.
+- ✅ It **does not rain** = It **doesn't rain** much.
+- ✅ We **do not go** = We **don't go** there.
+- ✅ They **do not play** = They **don't play** football.
 
 ### Exercise 7A: Make Negative Sentences
 
@@ -418,10 +393,10 @@ Find and fix the errors:
 
 ### Examples
 
-✅ **Do** you **like** pizza? → Yes, I do. / No, I don't.
-✅ **Do** they **work** here? → Yes, they do. / No, they don't.
-✅ **Does** he **speak** English? → Yes, he does. / No, he doesn't.
-✅ **Does** she **live** in London? → Yes, she does. / No, she doesn't.
+- ✅ **Do** you **like** pizza? → Yes, I do. / No, I don't.
+- ✅ **Do** they **work** here? → Yes, they do. / No, they don't.
+- ✅ **Does** he **speak** English? → Yes, he does. / No, he doesn't.
+- ✅ **Does** she **live** in London? → Yes, she does. / No, she doesn't.
 
 ### Short Answers
 
@@ -468,10 +443,10 @@ Answer with short answers (Yes/No):
 
 ### Examples
 
-✅ **This** is my book. (one book, near)
-✅ **That** is your pen. (one pen, far)
-✅ **These** are my books. (many books, near)
-✅ **Those** are your pens. (many pens, far)
+- ✅ **This** is my book. (one book, near)
+- ✅ **That** is your pen. (one pen, far)
+- ✅ **These** are my books. (many books, near)
+- ✅ **Those** are your pens. (many pens, far)
 
 ### Exercise 9A: Choose the Correct Word
 
@@ -514,12 +489,12 @@ Answer with short answers (Yes/No):
 
 ### Examples
 
-✅ There **is** a book on the table.
-✅ There **are** two books on the table.
-✅ There **isn't** a pen here.
-✅ There **aren't** any students in class.
-✅ **Is there** a bank near here?
-✅ **Are there** any questions?
+- ✅ There **is** a book on the table.
+- ✅ There **are** two books on the table.
+- ✅ There **isn't** a pen here.
+- ✅ There **aren't** any students in class.
+- ✅ **Is there** a bank near here?
+- ✅ **Are there** any questions?
 
 ### Exercise 10A: Is or Are?
 
@@ -560,14 +535,14 @@ Answer with short answers (Yes/No):
 
 ### Examples
 
-✅ The book is **in** the bag.
-✅ The picture is **on** the wall.
-✅ I am **at** home.
-✅ The cat is **under** the table.
-✅ The car is **behind** the house.
-✅ I stand **in front of** the mirror.
-✅ The bank is **next to** the post office.
-✅ I sit **between** John and Mary.
+- ✅ The book is **in** the bag.
+- ✅ The picture is **on** the wall.
+- ✅ I am **at** home.
+- ✅ The cat is **under** the table.
+- ✅ The car is **behind** the house.
+- ✅ I stand **in front of** the mirror.
+- ✅ The bank is **next to** the post office.
+- ✅ I sit **between** John and Mary.
 
 ### Exercise 11A: Fill in the Preposition
 
@@ -607,14 +582,14 @@ Example: The lamp is on the table.
 
 ### Examples
 
-✅ I wake up **at** 7 o'clock.
-✅ My birthday is **in** March.
-✅ I was born **in** 1995.
-✅ It's cold **in** winter.
-✅ I study **in** the morning.
-✅ I don't work **on** Sunday.
-✅ The meeting is **on** June 15th.
-✅ I go to bed **at** night.
+- ✅ I wake up **at** 7 o'clock.
+- ✅ My birthday is **in** March.
+- ✅ I was born **in** 1995.
+- ✅ It's cold **in** winter.
+- ✅ I study **in** the morning.
+- ✅ I don't work **on** Sunday.
+- ✅ The meeting is **on** June 15th.
+- ✅ I go to bed **at** night.
 
 ### Exercise 12A: At, In, or On?
 
@@ -649,18 +624,18 @@ Example: The lamp is on the table.
 
 **Positive:** subject + can + base verb
 **Negative:** subject + can't + base verb
-**Question:** Can + subject + base verb?
+- **Question:** Can + subject + base verb?
 
 ⚠️ **Important:** "Can" doesn't change! (No -s for he/she/it)
 
 ### Examples
 
-✅ I **can** swim.
-✅ She **can** speak English.
-✅ He **can't** drive.
-✅ They **can't** come today.
-✅ **Can** you help me?
-✅ **Can** he play piano?
+- ✅ I **can** swim.
+- ✅ She **can** speak English.
+- ✅ He **can't** drive.
+- ✅ They **can't** come today.
+- ✅ **Can** you help me?
+- ✅ **Can** he play piano?
 
 ### Short Answers
 
@@ -697,7 +672,7 @@ Answer these questions:
 
 ### Grammar Rule
 
-**Form:** am/is/are + verb-ing
+- **Form:** am/is/are + verb-ing
 
 **Use:** Actions happening NOW
 
@@ -708,12 +683,12 @@ Answer these questions:
 
 ### Examples
 
-✅ I **am eating** now.
-✅ You **are watching** TV.
-✅ He **is sleeping**.
-✅ She **is reading** a book.
-✅ We **are studying** English.
-✅ They **are playing** football.
+- ✅ I **am eating** now.
+- ✅ You **are watching** TV.
+- ✅ He **is sleeping**.
+- ✅ She **is reading** a book.
+- ✅ We **are studying** English.
+- ✅ They **are playing** football.
 
 ### Negative
 
@@ -770,12 +745,12 @@ Adjectives describe nouns.
 
 ### Examples
 
-✅ A **small** cat
-✅ **Small** cats
-✅ The car is **red**.
-✅ The cars are **red**.
-✅ A **beautiful** day
-✅ She is **happy**.
+- ✅ A **small** cat
+- ✅ **Small** cats
+- ✅ The car is **red**.
+- ✅ The cars are **red**.
+- ✅ A **beautiful** day
+- ✅ She is **happy**.
 
 ### Common Adjectives
 
@@ -828,15 +803,15 @@ Adverbs of frequency show HOW OFTEN:
 
 ### Examples
 
-✅ I **always** wake up at 7 AM.
-✅ She **usually** drinks coffee.
-✅ We **often** go to the cinema.
-✅ He **sometimes** plays football.
-✅ They **rarely** eat meat.
-✅ I **never** smoke.
+- ✅ I **always** wake up at 7 AM.
+- ✅ She **usually** drinks coffee.
+- ✅ We **often** go to the cinema.
+- ✅ He **sometimes** plays football.
+- ✅ They **rarely** eat meat.
+- ✅ I **never** smoke.
 
-✅ I am **always** happy.
-✅ She is **usually** busy.
+- ✅ I am **always** happy.
+- ✅ She is **usually** busy.
 
 ### Exercise 16A: Put the Adverb in the Correct Place
 
@@ -879,14 +854,14 @@ Use adverbs of frequency:
 
 ### Examples
 
-✅ **What** is your name?
-✅ **When** do you start work?
-✅ **Where** do you live?
-✅ **Who** is that person?
-✅ **Why** are you late?
-✅ **How** are you?
-✅ **Which** color do you like?
-✅ **Whose** book is this?
+- ✅ **What** is your name?
+- ✅ **When** do you start work?
+- ✅ **Where** do you live?
+- ✅ **Who** is that person?
+- ✅ **Why** are you late?
+- ✅ **How** are you?
+- ✅ **Which** color do you like?
+- ✅ **Whose** book is this?
 
 ### How + Adjective/Adverb
 
@@ -933,13 +908,13 @@ Use the **base form** of the verb (no subject)
 
 ### Examples
 
-✅ **Sit** down.
-✅ **Open** the door.
-✅ **Listen** to me.
-✅ **Be** quiet.
-✅ **Don't talk**.
-✅ **Don't run**.
-✅ **Don't be** late.
+- ✅ **Sit** down.
+- ✅ **Open** the door.
+- ✅ **Listen** to me.
+- ✅ **Be** quiet.
+- ✅ **Don't talk**.
+- ✅ **Don't run**.
+- ✅ **Don't be** late.
 
 ### Polite Commands
 
@@ -988,21 +963,21 @@ Write 5 commands for a friend visiting your home:
 
 ### Examples
 
-✅ I **was** at home yesterday.
-✅ You **were** late.
-✅ He **was** a student.
-✅ She **was** happy.
-✅ We **were** tired.
-✅ They **were** at the party.
+- ✅ I **was** at home yesterday.
+- ✅ You **were** late.
+- ✅ He **was** a student.
+- ✅ She **was** happy.
+- ✅ We **were** tired.
+- ✅ They **were** at the party.
 
-✅ I **wasn't** at work.
-✅ They **weren't** here.
+- ✅ I **wasn't** at work.
+- ✅ They **weren't** here.
 
 ### Questions
 
-✅ **Was** I late?
-✅ **Were** you at home?
-✅ **Where were** you?
+- ✅ **Was** I late?
+- ✅ **Were** you at home?
+- ✅ **Where were** you?
 
 ### Exercise 19A: Was or Were?
 
