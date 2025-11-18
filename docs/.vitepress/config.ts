@@ -23,6 +23,7 @@ export default defineConfig({
           text: 'A1 - Beginner',
           collapsed: false,
           items: [
+            { text: 'Overview', link: '/en/a1/' },
             { text: 'Vocabulary', link: '/en/a1/vocabulary' },
             { text: 'Grammar Workbook', link: '/en/a1/grammar-workbook' },
             { text: 'Speaking Practice', link: '/en/a1/speaking-practice' }
@@ -32,6 +33,7 @@ export default defineConfig({
           text: 'A2 - Elementary',
           collapsed: false,
           items: [
+            { text: 'Overview', link: '/en/a2/' },
             { text: 'Vocabulary', link: '/en/a2/vocabulary' },
             { text: 'Grammar Workbook', link: '/en/a2/grammar-workbook' },
             { text: 'Speaking Practice', link: '/en/a2/speaking-practice' }
@@ -41,6 +43,7 @@ export default defineConfig({
           text: 'B1 - Intermediate',
           collapsed: false,
           items: [
+            { text: 'Overview', link: '/en/b1/' },
             { text: 'Vocabulary', link: '/en/b1/vocabulary' },
             { text: 'Grammar Workbook', link: '/en/b1/grammar-workbook' },
             { text: 'Speaking Practice', link: '/en/b1/speaking-practice' }
@@ -50,6 +53,7 @@ export default defineConfig({
           text: 'B2 - Upper Intermediate',
           collapsed: false,
           items: [
+            { text: 'Overview', link: '/en/b2/' },
             { text: 'Vocabulary', link: '/en/b2/vocabulary' },
             { text: 'Grammar Workbook', link: '/en/b2/grammar-workbook' },
             { text: 'Speaking Practice', link: '/en/b2/speaking-practice' }
@@ -59,6 +63,7 @@ export default defineConfig({
           text: 'IELTS Vocabulary Plan',
           collapsed: false,
           items: [
+            { text: 'Overview', link: '/en/ielts/' },
             { text: 'Day 01', link: '/en/ielts/day-01' },
             { text: 'Day 02', link: '/en/ielts/day-02' },
             { text: 'Day 03', link: '/en/ielts/day-03' },
