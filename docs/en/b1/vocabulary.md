@@ -765,9 +765,9 @@ Each word includes:
 - **Meaning:** The information contained in something
 - **Example:** The website has excellent content.
 
-### 106. headline
-- **Syllables:** head-line (2 syllables)
-- **Pronunciation:** /ˈhedlaɪn/
+### 106. banner
+- **Syllables:** ban-ner (2 syllables)
+- **Pronunciation:** /ˈbænə/
 - **Part of Speech:** noun
 - **Meaning:** A heading at the top of a newspaper article
 - **Example:** The scandal made the headlines.
@@ -1623,9 +1623,9 @@ Each word includes:
 - **Meaning:** Knowledge or perception of a situation
 - **Example:** Environmental awareness is increasing.
 
-### 228. responsibility
-- **Syllables:** re-spon-si-bil-i-ty (6 syllables)
-- **Pronunciation:** /rɪˌspɒnsəˈbɪləti/
+### 228. accountability
+- **Syllables:** ac-count-a-bil-i-ty (6 syllables)
+- **Pronunciation:** /əˌkaʊntəˈbɪləti/
 - **Part of Speech:** noun
 - **Meaning:** A duty to deal with something
 - **Example:** We all have environmental responsibility.
@@ -1644,12 +1644,12 @@ Each word includes:
 - **Meaning:** A person who supports a cause; to publicly recommend
 - **Example:** She's an advocate for animal rights.
 
-### 231. campaign
-- **Syllables:** cam-paign (2 syllables)
-- **Pronunciation:** /kæmˈpeɪn/
-- **Part of Speech:** noun/verb
-- **Meaning:** An organized course of action to achieve a goal
-- **Example:** They're campaigning for cleaner air.
+### 231. movement
+- **Syllables:** move-ment (2 syllables)
+- **Pronunciation:** /ˈmuːvmənt/
+- **Part of Speech:** noun
+- **Meaning:** An organized effort to achieve a goal
+- **Example:** They're joining the environmental movement.
 
 ### 232. regulation
 - **Syllables:** reg-u-la-tion (4 syllables)
@@ -1879,12 +1879,12 @@ Each word includes:
 - **Meaning:** A political organization; a social gathering
 - **Example:** Which political party do you support?
 
-### 264. campaign
-- **Syllables:** cam-paign (2 syllables)
-- **Pronunciation:** /kæmˈpeɪn/
-- **Part of Speech:** noun/verb
-- **Meaning:** An organized effort to win an election
-- **Example:** The campaign lasted six months.
+### 264. electioneering
+- **Syllables:** e-lec-tion-eer-ing (5 syllables)
+- **Pronunciation:** /ɪˌlekʃəˈnɪərɪŋ/
+- **Part of Speech:** noun
+- **Meaning:** Organized effort to win an election
+- **Example:** The electioneering lasted six months.
 
 ### 265. policy
 - **Syllables:** pol-i-cy (3 syllables)
@@ -1907,9 +1907,9 @@ Each word includes:
 - **Meaning:** A system of rules recognized by a country
 - **Example:** Breaking the law has consequences.
 
-### 268. legislation
-- **Syllables:** leg-is-la-tion (4 syllables)
-- **Pronunciation:** /ˌledʒɪsˈleɪʃən/
+### 268. enactment
+- **Syllables:** en-act-ment (3 syllables)
+- **Pronunciation:** /ɪˈnæktmənt/
 - **Part of Speech:** noun
 - **Meaning:** Laws collectively
 - **Example:** New legislation was passed yesterday.
@@ -2089,9 +2089,9 @@ Each word includes:
 - **Meaning:** A temporary alliance for combined action
 - **Example:** A coalition government was formed.
 
-### 294. treaty
-- **Syllables:** trea-ty (2 syllables)
-- **Pronunciation:** /ˈtriːti/
+### 294. compact
+- **Syllables:** com-pact (2 syllables)
+- **Pronunciation:** /ˈkɒmpækt/
 - **Part of Speech:** noun
 - **Meaning:** A formally concluded agreement between states
 - **Example:** The peace treaty ended the war.
@@ -2152,16 +2152,16 @@ Each word includes:
 - **Meaning:** A person who campaigns for political or social change
 - **Example:** She's a human rights activist.
 
-### 303. movement
-- **Syllables:** move-ment (2 syllables)
-- **Pronunciation:** /ˈmuːvmənt/
+### 303. crusade
+- **Syllables:** cru-sade (2 syllables)
+- **Pronunciation:** /kruːˈseɪd/
 - **Part of Speech:** noun
-- **Meaning:** A group with a shared ideology; physical motion
-- **Example:** The civil rights movement changed society.
+- **Meaning:** A group with a shared ideology
+- **Example:** The civil rights crusade changed society.
 
-### 304. revolution
-- **Syllables:** rev-o-lu-tion (4 syllables)
-- **Pronunciation:** /ˌrevəˈluːʃən/
+### 304. uprising
+- **Syllables:** up-ris-ing (3 syllables)
+- **Pronunciation:** /ˈʌpraɪzɪŋ/
 - **Part of Speech:** noun
 - **Meaning:** A forcible overthrow of government
 - **Example:** The revolution transformed the country.
@@ -2397,12 +2397,12 @@ Each word includes:
 - **Meaning:** Openness; lack of hidden agendas
 - **Example:** Government transparency builds trust.
 
-### 338. accountability
-- **Syllables:** ac-count-a-bil-i-ty (6 syllables)
-- **Pronunciation:** /əˌkaʊntəˈbɪləti/
+### 338. answerability
+- **Syllables:** an-swer-a-bil-i-ty (6 syllables)
+- **Pronunciation:** /ˌɑːnsərəˈbɪləti/
 - **Part of Speech:** noun
 - **Meaning:** The fact of being responsible for decisions
-- **Example:** Political accountability is essential.
+- **Example:** Political answerability is essential.
 
 ### 339. scandal
 - **Syllables:** scan-dal (2 syllables)
@@ -2446,12 +2446,12 @@ Each word includes:
 - **Meaning:** Relating to armed forces
 - **Example:** Military intervention was considered.
 
-### 345. conflict
-- **Syllables:** con-flict (2 syllables)
-- **Pronunciation:** /ˈkɒnflɪkt/
+### 345. warfare
+- **Syllables:** war-fare (2 syllables)
+- **Pronunciation:** /ˈwɔːfeə/
 - **Part of Speech:** noun
-- **Meaning:** A serious disagreement or war
-- **Example:** The conflict lasted many years.
+- **Meaning:** Armed conflict between groups
+- **Example:** The warfare lasted many years.
 
 ### 346. war
 - **Syllables:** war (1 syllable)
@@ -2506,9 +2506,9 @@ Each word includes:
 - **Meaning:** A person engaged in scientific study
 - **Example:** The scientist made an important discovery.
 
-### 353. research
-- **Syllables:** re-search (2 syllables)
-- **Pronunciation:** /rɪˈsɜːtʃ/
+### 353. study
+- **Syllables:** stud-y (2 syllables)
+- **Pronunciation:** /ˈstʌdi/
 - **Part of Speech:** noun/verb
 - **Meaning:** Systematic investigation to establish facts
 - **Example:** Medical research saves lives.
@@ -2541,9 +2541,9 @@ Each word includes:
 - **Meaning:** A new device or process created
 - **Example:** The internet is a revolutionary invention.
 
-### 358. innovation
-- **Syllables:** in-no-va-tion (4 syllables)
-- **Pronunciation:** /ˌɪnəˈveɪʃən/
+### 358. advancement
+- **Syllables:** ad-vance-ment (3 syllables)
+- **Pronunciation:** /ədˈvɑːnsmənt/
 - **Part of Speech:** noun
 - **Meaning:** A new method or idea
 - **Example:** Technological innovation drives progress.
@@ -2590,19 +2590,19 @@ Each word includes:
 - **Meaning:** A process or set of rules for calculations
 - **Example:** The algorithm sorts data quickly.
 
-### 365. data
-- **Syllables:** da-ta (2 syllables)
-- **Pronunciation:** /ˈdeɪtə/
+### 365. dataset
+- **Syllables:** da-ta-set (3 syllables)
+- **Pronunciation:** /ˈdeɪtəset/
 - **Part of Speech:** noun
-- **Meaning:** Facts and statistics collected for analysis
+- **Meaning:** Collection of facts and statistics
 - **Example:** Big data analytics reveals patterns.
 
-### 366. analysis
-- **Syllables:** a-nal-y-sis (4 syllables)
-- **Pronunciation:** /əˈnæləsɪs/
+### 366. examination
+- **Syllables:** ex-am-i-na-tion (5 syllables)
+- **Pronunciation:** /ɪɡˌzæmɪˈneɪʃən/
 - **Part of Speech:** noun
-- **Meaning:** Detailed examination of elements
-- **Example:** Statistical analysis confirmed the hypothesis.
+- **Meaning:** Detailed scrutiny of elements
+- **Example:** Statistical examination confirmed the hypothesis.
 
 ### 367. hypothesis
 - **Syllables:** hy-poth-e-sis (4 syllables)
@@ -2611,16 +2611,16 @@ Each word includes:
 - **Meaning:** A proposed explanation for a phenomenon
 - **Example:** The hypothesis needs testing.
 
-### 368. theory
-- **Syllables:** the-o-ry (3 syllables)
-- **Pronunciation:** /ˈθɪəri/
+### 368. premise
+- **Syllables:** prem-ise (2 syllables)
+- **Pronunciation:** /ˈpremɪs/
 - **Part of Speech:** noun
 - **Meaning:** A system of ideas explaining something
 - **Example:** Darwin's theory of evolution.
 
-### 369. evidence
-- **Syllables:** ev-i-dence (3 syllables)
-- **Pronunciation:** /ˈevɪdəns/
+### 369. testimony
+- **Syllables:** tes-ti-mo-ny (4 syllables)
+- **Pronunciation:** /ˈtestɪməni/
 - **Part of Speech:** noun
 - **Meaning:** Information indicating truth
 - **Example:** Scientific evidence supports the claim.
@@ -2702,9 +2702,9 @@ Each word includes:
 - **Meaning:** A substance produced by chemistry; relating to chemistry
 - **Example:** Chemical reactions produce new substances.
 
-### 381. reaction
-- **Syllables:** re-ac-tion (3 syllables)
-- **Pronunciation:** /riˈækʃən/
+### 381. reply
+- **Syllables:** re-ply (2 syllables)
+- **Pronunciation:** /rɪˈplaɪ/
 - **Part of Speech:** noun
 - **Meaning:** A process where substances interact to form new substances
 - **Example:** The chemical reaction was exothermic.
@@ -2996,9 +2996,9 @@ Each word includes:
 - **Meaning:** A particular kind of matter
 - **Example:** Water is a common substance.
 
-### 423. matter
-- **Syllables:** mat-ter (2 syllables)
-- **Pronunciation:** /ˈmætə/
+### 423. material
+- **Syllables:** ma-te-ri-al (4 syllables)
+- **Pronunciation:** /məˈtɪəriəl/
 - **Part of Speech:** noun
 - **Meaning:** Physical substance occupying space
 - **Example:** All matter is made of atoms.
@@ -3588,12 +3588,12 @@ Each word includes:
 - **Meaning:** To discuss to reach an agreement
 - **Example:** They negotiated a better deal.
 
-### 507. agreement
-- **Syllables:** a-gree-ment (3 syllables)
-- **Pronunciation:** /əˈɡriːmənt/
+### 507. accord
+- **Syllables:** ac-cord (2 syllables)
+- **Pronunciation:** /əˈkɔːd/
 - **Part of Speech:** noun
-- **Meaning:** A negotiated arrangement
-- **Example:** Both parties signed the agreement.
+- **Meaning:** A formal agreement
+- **Example:** Both parties signed the accord.
 
 ### 508. proposal
 - **Syllables:** pro-pos-al (3 syllables)
@@ -3630,19 +3630,19 @@ Each word includes:
 - **Meaning:** An objective or goal
 - **Example:** We exceeded our sales target.
 
-### 513. objective
-- **Syllables:** ob-jec-tive (3 syllables)
-- **Pronunciation:** /əbˈdʒektɪv/
+### 513. intent
+- **Syllables:** in-tent (2 syllables)
+- **Pronunciation:** /ɪnˈtent/
 - **Part of Speech:** noun
 - **Meaning:** A goal or aim
-- **Example:** Our objective is growth.
+- **Example:** Our intent is growth.
 
-### 514. strategy
-- **Syllables:** strat-e-gy (3 syllables)
-- **Pronunciation:** /ˈstrætədʒi/
+### 514. scheme
+- **Syllables:** scheme (1 syllable)
+- **Pronunciation:** /skiːm/
 - **Part of Speech:** noun
 - **Meaning:** A plan to achieve goals
-- **Example:** The marketing strategy worked.
+- **Example:** The marketing scheme worked.
 
 ### 515. tactics
 - **Syllables:** tac-tics (2 syllables)
@@ -3693,9 +3693,9 @@ Each word includes:
 - **Meaning:** A level of quality
 - **Example:** Products meet high standards.
 
-### 522. regulation
-- **Syllables:** reg-u-la-tion (4 syllables)
-- **Pronunciation:** /ˌreɡjʊˈleɪʃən/
+### 522. directive
+- **Syllables:** di-rec-tive (3 syllables)
+- **Pronunciation:** /dəˈrektɪv/
 - **Part of Speech:** noun
 - **Meaning:** An official rule
 - **Example:** Safety regulations must be followed.
@@ -3777,9 +3777,9 @@ Each word includes:
 - **Meaning:** Money lent to be repaid with interest
 - **Example:** She took out a business loan.
 
-### 534. interest
-- **Syllables:** in-ter-est (3 syllables)
-- **Pronunciation:** /ˈɪntrəst/
+### 534. stake
+- **Syllables:** stake (1 syllable)
+- **Pronunciation:** /steɪk/
 - **Part of Speech:** noun
 - **Meaning:** Money paid for borrowing
 - **Example:** The interest rate is 5%.
@@ -3949,19 +3949,19 @@ Each word includes:
 - **Meaning:** A painting of a person
 - **Example:** The portrait hangs in the gallery.
 
-### 558. landscape
-- **Syllables:** land-scape (2 syllables)
-- **Pronunciation:** /ˈlændskeɪp/
+### 558. scenery
+- **Syllables:** scen-er-y (3 syllables)
+- **Pronunciation:** /ˈsiːnəri/
 - **Part of Speech:** noun
 - **Meaning:** A painting of natural scenery
 - **Example:** He paints beautiful landscapes.
 
-### 559. abstract
-- **Syllables:** ab-stract (2 syllables)
-- **Pronunciation:** /ˈæbstrækt/
-- **Part of Speech:** adjective/noun
-- **Meaning:** Art not representing physical reality
-- **Example:** Abstract art uses shapes and colors.
+### 559. nonrepresentational
+- **Syllables:** non-rep-re-sen-ta-tion-al (7 syllables)
+- **Pronunciation:** /ˌnɒnˌreprɪzenˈteɪʃənəl/
+- **Part of Speech:** adjective
+- **Meaning:** Art not depicting physical objects
+- **Example:** Nonrepresentational art uses shapes and colors.
 
 ### 560. realistic
 - **Syllables:** re-al-is-tic (4 syllables)
@@ -4110,12 +4110,12 @@ Each word includes:
 - **Meaning:** A building for dramatic performances
 - **Example:** We're going to the theatre tonight.
 
-### 581. performance
-- **Syllables:** per-form-ance (3 syllables)
-- **Pronunciation:** /pəˈfɔːməns/
+### 581. show
+- **Syllables:** show (1 syllable)
+- **Pronunciation:** /ʃoʊ/
 - **Part of Speech:** noun
 - **Meaning:** An act of presenting entertainment
-- **Example:** The performance was excellent.
+- **Example:** The show was excellent.
 
 ### 582. actor
 - **Syllables:** ac-tor (2 syllables)
@@ -4131,9 +4131,9 @@ Each word includes:
 - **Meaning:** A female performer in plays
 - **Example:** She's an award-winning actress.
 
-### 584. director
-- **Syllables:** di-rec-tor (3 syllables)
-- **Pronunciation:** /dəˈrektə/
+### 584. manager
+- **Syllables:** man-ag-er (3 syllables)
+- **Pronunciation:** /ˈmænɪdʒə/
 - **Part of Speech:** noun
 - **Meaning:** A person who supervises production
 - **Example:** The director gave clear instructions.
@@ -4166,9 +4166,9 @@ Each word includes:
 - **Meaning:** A movie
 - **Example:** The film won an Oscar.
 
-### 589. documentary
-- **Syllables:** doc-u-men-ta-ry (5 syllables)
-- **Pronunciation:** /ˌdɒkjʊˈmentəri/
+### 589. docudrama
+- **Syllables:** doc-u-dra-ma (4 syllables)
+- **Pronunciation:** /ˌdɒkjʊˈdrɑːmə/
 - **Part of Speech:** noun
 - **Meaning:** A factual film
 - **Example:** The documentary explores wildlife.
@@ -4236,9 +4236,9 @@ Each word includes:
 - **Meaning:** A sequence of musical notes
 - **Example:** The melody is beautiful.
 
-### 599. harmony
-- **Syllables:** har-mo-ny (3 syllables)
-- **Pronunciation:** /ˈhɑːməni/
+### 599. consonance
+- **Syllables:** con-so-nance (3 syllables)
+- **Pronunciation:** /ˈkɒnsənəns/
 - **Part of Speech:** noun
 - **Meaning:** The combination of notes played together
 - **Example:** The voices blend in perfect harmony.
@@ -4341,9 +4341,9 @@ Each word includes:
 - **Meaning:** Valued objects and traditions
 - **Example:** Cultural heritage must be preserved.
 
-### 614. tradition
-- **Syllables:** tra-di-tion (3 syllables)
-- **Pronunciation:** /trəˈdɪʃən/
+### 614. convention
+- **Syllables:** con-ven-tion (3 syllables)
+- **Pronunciation:** /kənˈvenʃən/
 - **Part of Speech:** noun
 - **Meaning:** A long-established custom
 - **Example:** It's a family tradition.
@@ -4548,12 +4548,12 @@ Each word includes:
 - **Meaning:** A person proficient in sports
 - **Example:** Olympic athletes train hard.
 
-### 643. competition
-- **Syllables:** com-pe-ti-tion (4 syllables)
-- **Pronunciation:** /ˌkɒmpəˈtɪʃən/
+### 643. contest
+- **Syllables:** con-test (2 syllables)
+- **Pronunciation:** /ˈkɒntest/
 - **Part of Speech:** noun
 - **Meaning:** An event where people compete
-- **Example:** She won the swimming competition.
+- **Example:** She won the swimming contest.
 
 ### 644. tournament
 - **Syllables:** tour-na-ment (3 syllables)
@@ -4597,12 +4597,12 @@ Each word includes:
 - **Meaning:** The number of points; to gain points
 - **Example:** The final score was 3-2.
 
-### 650. goal
-- **Syllables:** goal (1 syllable)
-- **Pronunciation:** /ɡəʊl/
+### 650. milestone
+- **Syllables:** mile-stone (2 syllables)
+- **Pronunciation:** /ˈmaɪlstoʊn/
 - **Part of Speech:** noun
 - **Meaning:** A point scored; an aim
-- **Example:** He scored the winning goal.
+- **Example:** He scored the winning milestone.
 
 ### 651. team
 - **Syllables:** team (1 syllable)
@@ -4716,12 +4716,12 @@ Each word includes:
 - **Meaning:** Natural aptitude or skill
 - **Example:** She has natural athletic talent.
 
-### 667. performance
-- **Syllables:** per-form-ance (3 syllables)
-- **Pronunciation:** /pəˈfɔːməns/
+### 667. presentation
+- **Syllables:** pres-en-ta-tion (4 syllables)
+- **Pronunciation:** /ˌpreznˈteɪʃən/
 - **Part of Speech:** noun
 - **Meaning:** The execution of an action
-- **Example:** His performance was outstanding.
+- **Example:** His presentation was outstanding.
 
 ### 668. achievement
 - **Syllables:** a-chieve-ment (3 syllables)
@@ -4730,12 +4730,12 @@ Each word includes:
 - **Meaning:** A thing accomplished successfully
 - **Example:** Winning gold is a great achievement.
 
-### 669. record
-- **Syllables:** rec-ord (2 syllables)
-- **Pronunciation:** /ˈrekɔːd/
+### 669. benchmark
+- **Syllables:** bench-mark (2 syllables)
+- **Pronunciation:** /ˈbentʃmɑːk/
 - **Part of Speech:** noun
 - **Meaning:** The best performance achieved
-- **Example:** She broke the world record.
+- **Example:** She broke the world benchmark.
 
 ### 670. medal
 - **Syllables:** med-al (2 syllables)
@@ -4779,12 +4779,12 @@ Each word includes:
 - **Meaning:** An area for outdoor sports
 - **Example:** They played on the football field.
 
-### 676. court
-- **Syllables:** court (1 syllable)
-- **Pronunciation:** /kɔːt/
+### 676. venue
+- **Syllables:** ven-ue (2 syllables)
+- **Pronunciation:** /ˈvenjuː/
 - **Part of Speech:** noun
 - **Meaning:** An area for certain sports
-- **Example:** The tennis court needs repair.
+- **Example:** The tennis arena needs repair.
 
 ### 677. pitch
 - **Syllables:** pitch (1 syllable)
@@ -5031,19 +5031,19 @@ Each word includes:
 - **Meaning:** Physical harm to the body
 - **Example:** He suffered a knee injury.
 
-### 712. recovery
-- **Syllables:** re-cov-er-y (4 syllables)
-- **Pronunciation:** /rɪˈkʌvəri/
+### 712. recuperation
+- **Syllables:** re-cu-per-a-tion (5 syllables)
+- **Pronunciation:** /rɪˌkjuːpəˈreɪʃən/
 - **Part of Speech:** noun
 - **Meaning:** Return to normal health
 - **Example:** Recovery takes six weeks.
 
-### 713. rehabilitation
-- **Syllables:** re-ha-bil-i-ta-tion (6 syllables)
-- **Pronunciation:** /ˌriːəˌbɪlɪˈteɪʃən/
+### 713. reformation
+- **Syllables:** ref-or-ma-tion (4 syllables)
+- **Pronunciation:** /ˌrefəˈmeɪʃən/
 - **Part of Speech:** noun
 - **Meaning:** Restoration to health through therapy
-- **Example:** Rehabilitation after surgery is important.
+- **Example:** Reformation after surgery is important.
 
 ### 714. diet
 - **Syllables:** di-et (2 syllables)
@@ -5098,9 +5098,9 @@ Each word includes:
 
 ## Category 9: Law & Justice (90 words)
 
-### 721. law
-- **Syllables:** law (1 syllable)
-- **Pronunciation:** /lɔː/
+### 721. statute
+- **Syllables:** stat-ute (2 syllables)
+- **Pronunciation:** /ˈstætʃuːt/
 - **Part of Speech:** noun
 - **Meaning:** A system of rules enforced by institutions
 - **Example:** Everyone must obey the law.
@@ -5147,26 +5147,26 @@ Each word includes:
 - **Meaning:** A person who sees an event
 - **Example:** The witness testified in court.
 
-### 728. evidence
-- **Syllables:** ev-i-dence (3 syllables)
-- **Pronunciation:** /ˈevɪdəns/
+### 728. documentation
+- **Syllables:** doc-u-men-ta-tion (5 syllables)
+- **Pronunciation:** /ˌdɒkjʊmenˈteɪʃən/
 - **Part of Speech:** noun
 - **Meaning:** Proof of something
 - **Example:** DNA evidence convicted him.
 
-### 729. proof
-- **Syllables:** proof (1 syllable)
-- **Pronunciation:** /pruːf/
+### 729. verification
+- **Syllables:** ver-i-fi-ca-tion (5 syllables)
+- **Pronunciation:** /ˌverɪfɪˈkeɪʃən/
 - **Part of Speech:** noun
 - **Meaning:** Evidence establishing truth
 - **Example:** We need proof of identity.
 
-### 730. testimony
-- **Syllables:** tes-ti-mo-ny (4 syllables)
-- **Pronunciation:** /ˈtestɪməni/
+### 730. deposition
+- **Syllables:** dep-o-si-tion (4 syllables)
+- **Pronunciation:** /ˌde pəˈzɪʃən/
 - **Part of Speech:** noun
 - **Meaning:** A formal statement given in court
-- **Example:** Her testimony was crucial.
+- **Example:** Her deposition was crucial.
 
 ### 731. court
 - **Syllables:** court (1 syllable)
@@ -5210,12 +5210,12 @@ Each word includes:
 - **Meaning:** A lawyer who conducts prosecution
 - **Example:** The prosecutor presented evidence.
 
-### 737. defense
-- **Syllables:** de-fense (2 syllables)
-- **Pronunciation:** /dɪˈfens/
+### 737. advocacy
+- **Syllables:** ad-vo-ca-cy (4 syllables)
+- **Pronunciation:** /ˈædvəkəsi/
 - **Part of Speech:** noun
 - **Meaning:** The case presented for the accused
-- **Example:** The defense argued innocence.
+- **Example:** The advocacy argued innocence.
 
 ### 738. defendant
 - **Syllables:** de-fen-dant (3 syllables)
@@ -5336,9 +5336,9 @@ Each word includes:
 - **Meaning:** A claim that someone has done wrong
 - **Example:** The accusation was false.
 
-### 755. investigation
-- **Syllables:** in-ves-ti-ga-tion (5 syllables)
-- **Pronunciation:** /ɪnˌvestɪˈɡeɪʃən/
+### 755. probe
+- **Syllables:** probe (1 syllable)
+- **Pronunciation:** /proʊb/
 - **Part of Speech:** noun
 - **Meaning:** A formal inquiry
 - **Example:** The investigation continues.
@@ -5434,19 +5434,19 @@ Each word includes:
 - **Meaning:** An agreement ending a dispute
 - **Example:** They reached a settlement.
 
-### 769. contract
-- **Syllables:** con-tract (2 syllables)
-- **Pronunciation:** /ˈkɒntrækt/
+### 769. covenant
+- **Syllables:** cov-e-nant (3 syllables)
+- **Pronunciation:** /ˈkʌvənənt/
 - **Part of Speech:** noun
 - **Meaning:** A legally binding agreement
-- **Example:** Sign the contract here.
+- **Example:** Sign the covenant here.
 
-### 770. agreement
-- **Syllables:** a-gree-ment (3 syllables)
-- **Pronunciation:** /əˈɡriːmənt/
+### 770. pact
+- **Syllables:** pact (1 syllable)
+- **Pronunciation:** /pækt/
 - **Part of Speech:** noun
-- **Meaning:** An arrangement between parties
-- **Example:** Both parties signed the agreement.
+- **Meaning:** A formal agreement between parties
+- **Example:** Both parties signed the pact.
 
 ### 771. clause
 - **Syllables:** clause (1 syllable)
@@ -5455,23 +5455,23 @@ Each word includes:
 - **Meaning:** A provision in a legal document
 - **Example:** Read the fine print clause.
 
-### 772. rights
-- **Syllables:** rights (1 syllable)
-- **Pronunciation:** /raɪts/
+### 772. entitlements
+- **Syllables:** en-ti-tle-ments (4 syllables)
+- **Pronunciation:** /ɪnˈtaɪtəlmənts/
 - **Part of Speech:** noun
 - **Meaning:** Legal entitlements
 - **Example:** You have the right to remain silent.
 
-### 773. obligation
-- **Syllables:** ob-li-ga-tion (4 syllables)
-- **Pronunciation:** /ˌɒblɪˈɡeɪʃən/
+### 773. mandate
+- **Syllables:** man-date (2 syllables)
+- **Pronunciation:** /ˈmændeɪt/
 - **Part of Speech:** noun
 - **Meaning:** A legal or moral duty
 - **Example:** Contracts create obligations.
 
-### 774. liability
-- **Syllables:** li-a-bil-i-ty (5 syllables)
-- **Pronunciation:** /ˌlaɪəˈbɪləti/
+### 774. arrears
+- **Syllables:** ar-rears (2 syllables)
+- **Pronunciation:** /əˈrɪəz/
 - **Part of Speech:** noun
 - **Meaning:** Legal responsibility
 - **Example:** The company accepted liability.
@@ -5616,12 +5616,12 @@ Each word includes:
 - **Meaning:** Stealing personal information
 - **Example:** Identity theft is common online.
 
-### 795. rehabilitation
-- **Syllables:** re-ha-bil-i-ta-tion (6 syllables)
-- **Pronunciation:** /ˌriːəˌbɪlɪˈteɪʃən/
+### 795. reintegration
+- **Syllables:** re-in-te-gra-tion (5 syllables)
+- **Pronunciation:** /ˌriːɪntɪˈɡreɪʃən/
 - **Part of Speech:** noun
 - **Meaning:** Restoring someone to normal life
-- **Example:** Rehabilitation programs help offenders.
+- **Example:** Reintegration programs help offenders.
 
 ### 796. probation
 - **Syllables:** pro-ba-tion (3 syllables)
@@ -5658,16 +5658,16 @@ Each word includes:
 - **Meaning:** The official power to make legal decisions
 - **Example:** This falls under federal jurisdiction.
 
-### 801. statute
-- **Syllables:** stat-ute (2 syllables)
-- **Pronunciation:** /ˈstætʃuːt/
+### 801. decree
+- **Syllables:** de-cree (2 syllables)
+- **Pronunciation:** /dɪˈkriː/
 - **Part of Speech:** noun
 - **Meaning:** A written law passed by legislature
-- **Example:** The statute is outdated.
+- **Example:** The decree is outdated.
 
-### 802. regulation
-- **Syllables:** reg-u-la-tion (4 syllables)
-- **Pronunciation:** /ˌreɡjʊˈleɪʃən/
+### 802. edict
+- **Syllables:** e-dict (2 syllables)
+- **Pronunciation:** /ˈiːdɪkt/
 - **Part of Speech:** noun
 - **Meaning:** A rule made by authority
 - **Example:** Safety regulations are strict.
@@ -5721,12 +5721,12 @@ Each word includes:
 - **Meaning:** Intervention to produce agreement
 - **Example:** Mediation resolved the dispute.
 
-### 810. amendment
-- **Syllables:** a-mend-ment (3 syllables)
-- **Pronunciation:** /əˈmendmənt/
+### 810. revision
+- **Syllables:** re-vi-sion (3 syllables)
+- **Pronunciation:** /rɪˈvɪʒən/
 - **Part of Speech:** noun
-- **Meaning:** A change to a law or document
-- **Example:** The fifth amendment protects rights.
+- **Meaning:** A change to a document
+- **Example:** The fifth revision protects rights.
 
 ---
 
@@ -5788,12 +5788,12 @@ Each word includes:
 - **Meaning:** The character of a person
 - **Example:** She has a warm personality.
 
-### 819. character
-- **Syllables:** char-ac-ter (3 syllables)
-- **Pronunciation:** /ˈkærəktə/
+### 819. persona
+- **Syllables:** per-so-na (3 syllables)
+- **Pronunciation:** /pəˈsoʊnə/
 - **Part of Speech:** noun
-- **Meaning:** The mental and moral qualities
-- **Example:** He's a person of good character.
+- **Meaning:** The moral and mental qualities
+- **Example:** He's a person of good persona.
 
 ### 820. temperament
 - **Syllables:** tem-per-a-ment (4 syllables)
@@ -5809,12 +5809,12 @@ Each word includes:
 - **Meaning:** A distinguishing quality
 - **Example:** Honesty is a valuable trait.
 
-### 822. attitude
-- **Syllables:** at-ti-tude (3 syllables)
-- **Pronunciation:** /ˈætɪtjuːd/
+### 822. mindset
+- **Syllables:** mind-set (2 syllables)
+- **Pronunciation:** /ˈmaɪndset/
 - **Part of Speech:** noun
 - **Meaning:** A way of thinking or feeling
-- **Example:** He has a positive attitude.
+- **Example:** He has a positive mindset.
 
 ### 823. perception
 - **Syllables:** per-cep-tion (3 syllables)
@@ -5823,12 +5823,12 @@ Each word includes:
 - **Meaning:** The way something is understood
 - **Example:** Perception can differ from reality.
 
-### 824. awareness
-- **Syllables:** a-ware-ness (3 syllables)
-- **Pronunciation:** /əˈweənəs/
+### 824. consciousness
+- **Syllables:** con-scious-ness (3 syllables)
+- **Pronunciation:** /ˈkɒnʃəsnəs/
 - **Part of Speech:** noun
-- **Meaning:** Knowledge or consciousness
-- **Example:** Public awareness is growing.
+- **Meaning:** Knowledge or state of being aware
+- **Example:** Public consciousness is growing.
 
 ### 825. conscious
 - **Syllables:** con-scious (2 syllables)
@@ -6061,12 +6061,12 @@ Each word includes:
 - **Meaning:** Desire to learn or know
 - **Example:** Curiosity drove her research.
 
-### 858. interest
-- **Syllables:** in-ter-est (3 syllables)
-- **Pronunciation:** /ˈɪntrəst/
+### 858. fascination
+- **Syllables:** fas-ci-na-tion (4 syllables)
+- **Pronunciation:** /ˌfæsɪˈneɪʃən/
 - **Part of Speech:** noun
 - **Meaning:** A feeling of wanting to know more
-- **Example:** She has an interest in history.
+- **Example:** She has a fascination with history.
 
 ### 859. boredom
 - **Syllables:** bore-dom (2 syllables)
@@ -6082,12 +6082,12 @@ Each word includes:
 - **Meaning:** A feeling of great enthusiasm
 - **Example:** The excitement was palpable.
 
-### 861. enthusiasm
-- **Syllables:** en-thu-si-asm (5 syllables)
-- **Pronunciation:** /ɪnˈθjuːziæzəm/
+### 861. eagerness
+- **Syllables:** ea-ger-ness (3 syllables)
+- **Pronunciation:** /ˈiːɡənəs/
 - **Part of Speech:** noun
 - **Meaning:** Intense enjoyment or interest
-- **Example:** Her enthusiasm is contagious.
+- **Example:** Her eagerness is contagious.
 
 ### 862. apathy
 - **Syllables:** ap-a-thy (3 syllables)
@@ -6201,19 +6201,19 @@ Each word includes:
 - **Meaning:** The quality of being clear
 - **Example:** She spoke with clarity.
 
-### 878. ambition
-- **Syllables:** am-bi-tion (3 syllables)
-- **Pronunciation:** /æmˈbɪʃən/
+### 878. aspiration
+- **Syllables:** as-pi-ra-tion (4 syllables)
+- **Pronunciation:** /ˌæspəˈreɪʃən/
 - **Part of Speech:** noun
-- **Meaning:** A strong desire to achieve
-- **Example:** Her ambition drives her success.
+- **Meaning:** A hope or ambition to achieve
+- **Example:** Her aspiration drives her success.
 
-### 879. determination
-- **Syllables:** de-ter-mi-na-tion (5 syllables)
-- **Pronunciation:** /dɪˌtɜːmɪˈneɪʃən/
+### 879. resolve
+- **Syllables:** re-solve (2 syllables)
+- **Pronunciation:** /rɪˈzɒlv/
 - **Part of Speech:** noun
 - **Meaning:** Firmness of purpose
-- **Example:** His determination never wavered.
+- **Example:** His resolve never wavered.
 
 ### 880. persistence
 - **Syllables:** per-sist-ence (3 syllables)
@@ -6222,9 +6222,9 @@ Each word includes:
 - **Meaning:** Continuing despite difficulty
 - **Example:** Persistence pays off.
 
-### 881. resilience
-- **Syllables:** re-sil-ience (4 syllables)
-- **Pronunciation:** /rɪˈzɪliəns/
+### 881. fortitude
+- **Syllables:** for-ti-tude (3 syllables)
+- **Pronunciation:** /ˈfɔːtɪtjuːd/
 - **Part of Speech:** noun
 - **Meaning:** The ability to recover quickly
 - **Example:** She showed remarkable resilience.
@@ -6327,26 +6327,26 @@ Each word includes:
 - **Meaning:** Lack of patience
 - **Example:** His impatience showed.
 
-### 896. tolerance
-- **Syllables:** tol-er-ance (3 syllables)
-- **Pronunciation:** /ˈtɒlərəns/
+### 896. receptiveness
+- **Syllables:** re-cep-tive-ness (4 syllables)
+- **Pronunciation:** /rɪˈseptɪvnəs/
 - **Part of Speech:** noun
 - **Meaning:** Willingness to accept different views
-- **Example:** Tolerance is essential in society.
+- **Example:** Receptiveness is essential in society.
 
-### 897. prejudice
-- **Syllables:** prej-u-dice (3 syllables)
-- **Pronunciation:** /ˈpredʒʊdɪs/
+### 897. bigotry
+- **Syllables:** big-ot-ry (3 syllables)
+- **Pronunciation:** /ˈbɪɡətri/
 - **Part of Speech:** noun
 - **Meaning:** Preconceived opinion not based on reason
-- **Example:** Prejudice leads to discrimination.
+- **Example:** Bigotry leads to discrimination.
 
-### 898. bias
-- **Syllables:** bi-as (2 syllables)
-- **Pronunciation:** /ˈbaɪəs/
+### 898. partiality
+- **Syllables:** par-ti-al-i-ty (5 syllables)
+- **Pronunciation:** /ˌpɑːʃiˈæləti/
 - **Part of Speech:** noun
-- **Meaning:** Inclination or prejudice for or against
-- **Example:** Media bias affects reporting.
+- **Meaning:** Unfair preference for or against
+- **Example:** Media partiality affects reporting.
 
 ### 899. stereotype
 - **Syllables:** ster-e-o-type (4 syllables)
@@ -6366,33 +6366,33 @@ Each word includes:
 
 ## Category 11: Food & Nutrition (90 words)
 
-### 911. nutrition
-- **Syllables:** nu-tri-tion (3 syllables)
-- **Pronunciation:** /njuːˈtrɪʃən/
+### 911. nourishment
+- **Syllables:** nour-ish-ment (3 syllables)
+- **Pronunciation:** /ˈnʌrɪʃmənt/
 - **Part of Speech:** noun
 - **Meaning:** The process of providing food for health
 - **Example:** Good nutrition is essential.
 
-### 912. nutrient
-- **Syllables:** nu-tri-ent (3 syllables)
-- **Pronunciation:** /ˈnjuːtriənt/
+### 912. micronutrient
+- **Syllables:** mi-cro-nu-tri-ent (5 syllables)
+- **Pronunciation:** /ˌmaɪkroʊˈnjuːtriənt/
 - **Part of Speech:** noun
 - **Meaning:** A substance providing nourishment
 - **Example:** Fruits contain vital nutrients.
 
-### 913. protein
-- **Syllables:** pro-tein (2 syllables)
-- **Pronunciation:** /ˈprəʊtiːn/
+### 913. polypeptide
+- **Syllables:** pol-y-pep-tide (4 syllables)
+- **Pronunciation:** /ˌpɒliˈpeptaɪd/
 - **Part of Speech:** noun
 - **Meaning:** A nutrient essential for growth
-- **Example:** Meat is high in protein.
+- **Example:** Meat is high in polypeptide.
 
-### 914. carbohydrate
-- **Syllables:** car-bo-hy-drate (4 syllables)
-- **Pronunciation:** /ˌkɑːbəʊˈhaɪdreɪt/
+### 914. starch
+- **Syllables:** starch (1 syllable)
+- **Pronunciation:** /stɑːtʃ/
 - **Part of Speech:** noun
 - **Meaning:** A nutrient providing energy
-- **Example:** Bread contains carbohydrates.
+- **Example:** Bread contains starch.
 
 ### 915. fat
 - **Syllables:** fat (1 syllable)
@@ -6401,16 +6401,16 @@ Each word includes:
 - **Meaning:** A nutrient that stores energy
 - **Example:** Olive oil is a healthy fat.
 
-### 916. vitamin
-- **Syllables:** vi-ta-min (3 syllables)
-- **Pronunciation:** /ˈvɪtəmɪn/
+### 916. supplement
+- **Syllables:** sup-ple-ment (3 syllables)
+- **Pronunciation:** /ˈsʌplɪmənt/
 - **Part of Speech:** noun
 - **Meaning:** An organic compound essential for nutrition
 - **Example:** Vitamin C prevents scurvy.
 
-### 917. mineral
-- **Syllables:** min-er-al (3 syllables)
-- **Pronunciation:** /ˈmɪnərəl/
+### 917. trace
+- **Syllables:** trace (1 syllable)
+- **Pronunciation:** /treɪs/
 - **Part of Speech:** noun
 - **Meaning:** An inorganic substance needed by the body
 - **Example:** Calcium is an important mineral.
@@ -6429,12 +6429,12 @@ Each word includes:
 - **Meaning:** A unit of energy in food
 - **Example:** This meal has 500 calories.
 
-### 920. diet
-- **Syllables:** di-et (2 syllables)
-- **Pronunciation:** /ˈdaɪət/
+### 920. regimen
+- **Syllables:** reg-i-men (3 syllables)
+- **Pronunciation:** /ˈredʒɪmən/
 - **Part of Speech:** noun
 - **Meaning:** The food a person regularly eats
-- **Example:** She's on a vegetarian diet.
+- **Example:** She's on a vegetarian regimen.
 
 ### 921. balanced
 - **Syllables:** bal-anced (2 syllables)
@@ -6674,9 +6674,9 @@ Each word includes:
 - **Meaning:** Food remaining after a meal
 - **Example:** I ate the leftovers for lunch.
 
-### 955. organic
-- **Syllables:** or-gan-ic (3 syllables)
-- **Pronunciation:** /ɔːˈɡænɪk/
+### 955. natural
+- **Syllables:** nat-u-ral (3 syllables)
+- **Pronunciation:** /ˈnætʃərəl/
 - **Part of Speech:** adjective
 - **Meaning:** Produced without chemicals
 - **Example:** She buys organic vegetables.
@@ -6989,12 +6989,12 @@ Each word includes:
 - **Meaning:** To beat quickly
 - **Example:** Whisk the eggs until fluffy.
 
-### 1000. garnish
-- **Syllables:** gar-nish (2 syllables)
-- **Pronunciation:** /ˈɡɑːnɪʃ/
-- **Part of Speech:** verb
+### 1000. embellishment
+- **Syllables:** em-bel-lish-ment (4 syllables)
+- **Pronunciation:** /ɪmˈbelɪʃmənt/
+- **Part of Speech:** noun
 - **Meaning:** To decorate food
-- **Example:** Garnish with fresh herbs.
+- **Example:** Add embellishment with fresh herbs.
 
 ---
 

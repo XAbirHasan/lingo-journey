@@ -1169,12 +1169,12 @@
 - **Meaning**: A formal meeting to evaluate someone
 - **Example**: I have a job interview tomorrow.
 
-### 166. application
-- **Syllables**: ap-pli-ca-tion
-- **Pronunciation**: /ˌæp.lɪˈkeɪ.ʃən/
+### 166. form
+- **Syllables**: form
+- **Pronunciation**: /fɔːrm/
 - **Part of Speech**: noun
-- **Meaning**: A formal request for a job
-- **Example**: I sent my job application yesterday.
+- **Meaning**: A document to fill out for a request
+- **Example**: I sent my job form yesterday.
 
 ### 167. resume
 - **Syllables**: re-su-me
@@ -1190,12 +1190,12 @@
 - **Meaning**: A skill or certificate needed for a job
 - **Example**: Do you have the right qualifications?
 
-### 169. experience
-- **Syllables**: ex-pe-ri-ence
-- **Pronunciation**: /ɪkˈspɪr.i.əns/
+### 169. background
+- **Syllables**: back-ground
+- **Pronunciation**: /ˈbæk.ɡraʊnd/
 - **Part of Speech**: noun
-- **Meaning**: Knowledge from doing something
-- **Example**: She has five years of experience.
+- **Meaning**: Your past work or study history
+- **Example**: She has five years of background.
 
 ### 170. reference
 - **Syllables**: ref-er-ence
@@ -2308,12 +2308,12 @@
 - **Meaning**: A small round piece of medicine
 - **Example**: Swallow the pill with water.
 
-### 327. tablet
-- **Syllables**: tab-let
-- **Pronunciation**: /ˈtæb.lət/
+### 327. dose
+- **Syllables**: dose
+- **Pronunciation**: /doʊs/
 - **Part of Speech**: noun
-- **Meaning**: A small flat piece of medicine
-- **Example**: Take two tablets every four hours.
+- **Meaning**: An amount of medicine to take
+- **Example**: Take two doses every four hours.
 
 ### 328. capsule
 - **Syllables**: cap-sule
@@ -2557,19 +2557,19 @@
 - **Meaning**: The typical weather in an area
 - **Example**: The climate here is very mild.
 
-### 362. temperature
-- **Syllables**: tem-per-a-ture
-- **Pronunciation**: /ˈtem.prə.tʃər/
+### 362. weather
+- **Syllables**: weath-er
+- **Pronunciation**: /ˈweð.ər/
 - **Part of Speech**: noun
-- **Meaning**: How hot or cold it is
-- **Example**: The temperature is 25 degrees today.
+- **Meaning**: The conditions outside
+- **Example**: The weather is 25 degrees today.
 
-### 363. degree
-- **Syllables**: de-gree
-- **Pronunciation**: /dɪˈɡriː/
+### 363. celsius
+- **Syllables**: cel-si-us
+- **Pronunciation**: /ˈsel.si.əs/
 - **Part of Speech**: noun
-- **Meaning**: A unit for measuring temperature
-- **Example**: It's minus five degrees outside.
+- **Meaning**: A scale for measuring temperature
+- **Example**: It's minus five celsius outside.
 
 ### 364. forecast
 - **Syllables**: fore-cast
@@ -3899,12 +3899,12 @@
 - **Meaning**: Information in digital form
 - **Example**: Back up your data regularly.
 
-### 552. save
-- **Syllables**: save
-- **Pronunciation**: /seɪv/
+### 552. preserve
+- **Syllables**: pre-serve
+- **Pronunciation**: /prɪˈzɜrv/
 - **Part of Speech**: verb
-- **Meaning**: To store data
-- **Example**: Don't forget to save your work.
+- **Meaning**: To keep something safe
+- **Example**: Don't forget to preserve your work.
 
 ### 553. delete
 - **Syllables**: de-lete
@@ -3927,12 +3927,12 @@
 - **Meaning**: To insert copied data
 - **Example**: Paste the copied text here.
 
-### 556. cut
-- **Syllables**: cut
-- **Pronunciation**: /kʌt/
+### 556. remove
+- **Syllables**: re-move
+- **Pronunciation**: /rɪˈmuːv/
 - **Part of Speech**: verb
-- **Meaning**: To remove and copy
-- **Example**: Cut this section and move it.
+- **Meaning**: To take away
+- **Example**: Remove this section and move it.
 
 ### 557. undo
 - **Syllables**: un-do
@@ -3976,12 +3976,12 @@
 - **Meaning**: A small symbol on a screen
 - **Example**: Click the folder icon.
 
-### 563. menu
-- **Syllables**: men-u
-- **Pronunciation**: /ˈmen.juː/
+### 563. dropdown
+- **Syllables**: drop-down
+- **Pronunciation**: /ˈdrɑːp.daʊn/
 - **Part of Speech**: noun
 - **Meaning**: A list of options on a computer
-- **Example**: Open the file menu.
+- **Example**: Open the file dropdown.
 
 ### 564. window
 - **Syllables**: win-dow
@@ -4095,19 +4095,19 @@
 - **Meaning**: A saved website address
 - **Example**: Bookmark this page.
 
-### 580. account
-- **Syllables**: ac-count
-- **Pronunciation**: /əˈkaʊnt/
-- **Part of Speech**: noun
-- **Meaning**: Access to a service or website
-- **Example**: Create an account to continue.
-
-### 581. profile
+### 580. profile
 - **Syllables**: pro-file
 - **Pronunciation**: /ˈproʊ.faɪl/
 - **Part of Speech**: noun
-- **Meaning**: Information about a user
-- **Example**: Update your profile picture.
+- **Meaning**: Your personal information on a website
+- **Example**: Create a profile to continue.
+
+### 581. settings
+- **Syllables**: set-tings
+- **Pronunciation**: /ˈset.ɪŋz/
+- **Part of Speech**: noun
+- **Meaning**: Options that can be changed
+- **Example**: Update your settings picture.
 
 ### 582. post
 - **Syllables**: post
@@ -4253,12 +4253,12 @@
 - **Meaning**: An activity done for pleasure
 - **Example**: Photography is my hobby.
 
-### 602. interest
-- **Syllables**: in-ter-est
-- **Pronunciation**: /ˈɪn.trəst/
+### 602. passion
+- **Syllables**: pas-sion
+- **Pronunciation**: /ˈpæʃ.ən/
 - **Part of Speech**: noun
-- **Meaning**: Something you enjoy or care about
-- **Example**: What are your interests?
+- **Meaning**: Something you love doing
+- **Example**: What are your passions?
 
 ### 603. leisure
 - **Syllables**: lei-sure
@@ -5174,12 +5174,12 @@
 - **Meaning**: Willing to help
 - **Example**: You've been very helpful.
 
-### 733. patient
-- **Syllables**: pa-tient
-- **Pronunciation**: /ˈpeɪ.ʃənt/
+### 733. tolerant
+- **Syllables**: tol-er-ant
+- **Pronunciation**: /ˈtɑː.lər.ənt/
 - **Part of Speech**: adjective
-- **Meaning**: Able to wait calmly
-- **Example**: Be patient, it takes time.
+- **Meaning**: Willing to accept delays
+- **Example**: Be tolerant, it takes time.
 
 ### 734. impatient
 - **Syllables**: im-pa-tient

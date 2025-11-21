@@ -838,12 +838,12 @@ Each word includes:
 - **Meaning:** To have a home in a place
 - **Example:** I live in London.
 
-### 116. work
-- **Syllables:** work (1 syllable)
-- **Pronunciation:** /wɜːrk/
-- **Part of Speech:** verb
-- **Meaning:** To do a job
-- **Example:** I work in a hospital.
+### 116. labor
+- **Syllables:** la-bor (2 syllables)
+- **Pronunciation:** /ˈleɪ.bər/
+- **Part of Speech:** verb/noun
+- **Meaning:** To work hard; physical or mental effort
+- **Example:** I labor in the fields.
 
 ### 117. study
 - **Syllables:** stud-y (2 syllables)
@@ -1581,12 +1581,12 @@ Each word includes:
 - **Meaning:** Device that shows time
 - **Example:** Look at the clock.
 
-### 221. watch
-- **Syllables:** watch (1 syllable)
-- **Pronunciation:** /wɑːtʃ/
+### 221. wristwatch
+- **Syllables:** wrist-watch (2 syllables)
+- **Pronunciation:** /ˈrɪst.wɑːtʃ/
 - **Part of Speech:** noun
 - **Meaning:** Small clock worn on wrist
-- **Example:** My watch is broken.
+- **Example:** My wristwatch is broken.
 
 ### 222. key
 - **Syllables:** key (1 syllable)
@@ -2149,12 +2149,12 @@ Each word includes:
 - **Meaning:** Recently made
 - **Example:** New shoes.
 
-### 301. old
-- **Syllables:** old (1 syllable)
-- **Pronunciation:** /oʊld/
+### 301. ancient
+- **Syllables:** an-cient (2 syllables)
+- **Pronunciation:** /ˈeɪn.ʃənt/
 - **Part of Speech:** adjective
-- **Meaning:** Not new; aged
-- **Example:** Old car.
+- **Meaning:** Very old; from long ago
+- **Example:** Ancient building.
 
 ### 302. clean
 - **Syllables:** clean (1 syllable)
@@ -2763,12 +2763,12 @@ Each word includes:
 - **Meaning:** Weighing a lot
 - **Example:** Heavy box.
 
-### 387. light
-- **Syllables:** light (1 syllable)
-- **Pronunciation:** /laɪt/
-- **Part of Speech:** adjective/noun
-- **Meaning:** Not heavy; brightness
-- **Example:** Light bag.
+### 387. bright
+- **Syllables:** bright (1 syllable)
+- **Pronunciation:** /braɪt/
+- **Part of Speech:** adjective
+- **Meaning:** Giving out light; shining
+- **Example:** Bright sun.
 
 ### 388. full
 - **Syllables:** full (1 syllable)
@@ -2798,12 +2798,12 @@ Each word includes:
 - **Meaning:** Having little money
 - **Example:** Poor family.
 
-### 392. young
-- **Syllables:** young (1 syllable)
-- **Pronunciation:** /jʌŋ/
+### 392. youthful
+- **Syllables:** youth-ful (2 syllables)
+- **Pronunciation:** /ˈjuːθ.fəl/
 - **Part of Speech:** adjective
-- **Meaning:** Not old
-- **Example:** Young child.
+- **Meaning:** Looking or acting young
+- **Example:** Youthful appearance.
 
 ### 393. free
 - **Syllables:** free (1 syllable)
@@ -2917,12 +2917,12 @@ Each word includes:
 - **Meaning:** Not correct
 - **Example:** Wrong answer.
 
-### 409. right
-- **Syllables:** right (1 syllable)
-- **Pronunciation:** /raɪt/
-- **Part of Speech:** adjective/adverb/noun
-- **Meaning:** Correct; not left
-- **Example:** Right answer.
+### 409. correct
+- **Syllables:** cor-rect (2 syllables)
+- **Pronunciation:** /kəˈrekt/
+- **Part of Speech:** adjective
+- **Meaning:** Without any mistakes
+- **Example:** Correct answer.
 
 ### 410. true
 - **Syllables:** true (1 syllable)
